@@ -4282,7 +4282,7 @@ ha "S-s'il te plaît... ne dis rien."
 
 play music music_hanako fadein 1.0
 
-scene ev hanako_scars:
+scene ev hanako_scars
 with whiteout
 
 

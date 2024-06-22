@@ -3403,7 +3403,7 @@ ha "P-por favor… no digas nada."
 
 play music music_hanako fadein 1.0
 
-scene ev hanako_scars:
+scene ev hanako_scars
 with whiteout
 
 "Finalmente, toma su blusa en sus manos y se la quita, su sostén cayendo de sus hombros. Y así, Hanako permanece de pie a mitad de la habitación desnuda, excepto por sus medias y su ropa interior."

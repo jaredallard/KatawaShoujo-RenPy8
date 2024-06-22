@@ -4114,7 +4114,7 @@ with charaenter
 
 "Parece que el peldaño es un poquito más alto de lo que ella puede subir por sí misma."
 
-show emiwheel awayfrown:
+show emiwheel awayfrown
 with charachange
 
 show emiwheel awayfrown:

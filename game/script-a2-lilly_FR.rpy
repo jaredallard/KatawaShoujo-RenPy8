@@ -3655,7 +3655,7 @@ li "Hé, Hisao."
 
 "La voix de Lilly est si faible que je peux à peine l'entendre. Elle doit être sur le point de s'endormir."
 
-scene ev lilly_sleeping:
+scene ev lilly_sleeping
 with locationchange
 
 

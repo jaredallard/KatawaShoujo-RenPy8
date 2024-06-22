@@ -4105,7 +4105,7 @@ with charaenter
 
 "It seems the doorsill is slightly too high for her to get over by herself."
 
-show emiwheel awayfrown:
+show emiwheel awayfrown
 with charachange
 
 show emiwheel awayfrown:

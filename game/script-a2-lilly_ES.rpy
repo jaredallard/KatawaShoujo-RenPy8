@@ -2945,7 +2945,7 @@ li "Oye, Hisao."
 
 "La voz de Lilly es tan baja que apenas logro escucharla. Ella debe estar a punto de quedarse dormida."
 
-scene ev lilly_sleeping:
+scene ev lilly_sleeping
 with locationchange
 
 hi "¿Sí?"

@@ -3348,7 +3348,7 @@ ha "P-please… don't say anything."
 
 play music music_hanako fadein 1.0
 
-scene ev hanako_scars:
+scene ev hanako_scars
 with whiteout
 
 "Finally, she takes her blouse in her hands and draws it off, her bra falling from her shoulders. And so, Hanako stands in the middle of the room all but bared, save for her stockings and underwear."

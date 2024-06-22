@@ -5268,7 +5268,7 @@ with charaenter
 
 "On dirait qu'il y a une petite marche après la porte qui est trop élevée pour qu'elle puisse la passer avec le fauteuil."
 
-show emiwheel awayfrown:
+show emiwheel awayfrown
 with charachange
 
 show emiwheel awayfrown:

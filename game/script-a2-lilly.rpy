@@ -2938,7 +2938,7 @@ li "Hey, Hisao."
 
 "Lilly's voice is so quiet I can barely hear it. She must be on the verge of sleep."
 
-scene ev lilly_sleeping:
+scene ev lilly_sleeping
 with locationchange
 
 hi "Yeah?"

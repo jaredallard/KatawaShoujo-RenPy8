@@ -4424,7 +4424,7 @@ li "ねえ、久夫さん"
 
 "リリーがほとんど聞こえないぐらいの小さな声で俺を呼ぶ。もう半分寝ているに違いない。"
 
-scene ev lilly_sleeping:
+scene ev lilly_sleeping
 with locationchange
 
 

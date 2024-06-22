@@ -7077,7 +7077,7 @@ with charaenter
 
 "笑美が自分で乗り越えるには、段差がいくらか高すぎたみたいだ。"
 
-show emiwheel awayfrown:
+show emiwheel awayfrown
 with charachange
 
 show emiwheel awayfrown:

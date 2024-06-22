@@ -5160,7 +5160,7 @@ ha "お、お願い……何も言わないで"
 
 play music music_hanako fadein 1.0
 
-scene ev hanako_scars:
+scene ev hanako_scars
 with whiteout
 
 
